@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Kadro Revenue</title>
+    <item>
+      <title>Kadro Revenue 0.1.0</title>
+      <pubDate>Fri, 03 Jul 2026 15:43:38 +0300</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/alexci04/kadro-releases/releases/download/revenue-v0.1.0/KadroRevenue-0.1.0.dmg"
+                 sparkle:edSignature="LKgXsFUTjN3pgID50CrX6ifUE0icU1DulzgN91ohNcwpH5nG0Q2da8nAXvW6KMnrPXGbAs1WLY5BjTsistXlAA==" length="2421842" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
