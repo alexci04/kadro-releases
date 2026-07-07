@@ -3,6 +3,15 @@
   <channel>
     <title>Kadro Revenue</title>
     <item>
+      <title>Kadro Revenue 0.3.2</title>
+      <pubDate>Tue, 07 Jul 2026 21:55:54 +0300</pubDate>
+      <sparkle:version>0.3.2</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/alexci04/kadro-releases/releases/download/revenue-v0.3.2/KadroRevenue-0.3.2.dmg"
+                 sparkle:edSignature="jbpFi5JRSndEjBbwRnfOi7j7XTv3UpYyp5LHmRJClK+FUF7i+Q4boGA9nYrbDjw6e8vVzek1KGLiawqbmhM4CQ==" length="2739253" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Kadro Revenue 0.3.1</title>
       <pubDate>Sun, 05 Jul 2026 15:44:33 +0300</pubDate>
       <sparkle:version>0.3.1</sparkle:version>
